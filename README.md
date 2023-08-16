@@ -28,7 +28,7 @@ Worksheet 4: Sales total amount by store name.
 ![alt text](https://github.com/michaelsinanta/kalbe-vix/assets/97111982/9480c600-a1cb-46a8-858b-d60cc35bfff1)
 
 ## Create a Predictive Model using Regression and Perform Clustering
-1. Read the CSV data by accessing this [dataset](https://drive.google.com/drive/folders/1_rQrauVW2OvLIe2zd54Vcwnr2EY-vnnR).
+### 1. Read the CSV data by accessing this [dataset](https://drive.google.com/drive/folders/1_rQrauVW2OvLIe2zd54Vcwnr2EY-vnnR).
 ### 2. Perform data cleansing and combine all data into a single dataset.
 ![alt text](https://github.com/michaelsinanta/kalbe-vix/assets/97111982/dbb7c0c9-6abf-43ac-8897-cee34ddb3758)
 ### 3. Build a machine learning regression model (time series).
@@ -36,7 +36,7 @@ Worksheet 4: Sales total amount by store name.
 ![alt text](https://github.com/michaelsinanta/kalbe-vix/assets/97111982/ff902a36-9b42-4f01-bc21-a393d58bfd37)
 ![alt text](https://github.com/michaelsinanta/kalbe-vix/assets/97111982/51701a6c-048e-4e19-87b8-1b5463670f21)
 
-#### Conclusion
+#### Conclusion :
 Predicted daily quantities sold for each individual product
 * Cashew: 2 units
 * Cheese Stick: 5 units
@@ -64,7 +64,7 @@ To fulfill the total daily demand for all products combined, the inventory team 
 ### 4. Develop a machine learning clustering model.
 ![alt text](https://github.com/michaelsinanta/kalbe-vix/assets/97111982/8b35143b-3693-471a-8ca2-5081b91f9d2a)
 
-#### Conclusion 
+#### Conclusion :
 Upon analyzing the clustering results, it's evident that our customer data has been divided into four distinct clusters, each with its own unique characteristics. Leveraging these insights, we can develop personalized promotion and sales strategies tailored to the preferences and behaviors of each cluster.
 
 **Cluster 0: High-Value and Frequent**
